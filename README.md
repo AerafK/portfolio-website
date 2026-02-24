@@ -43,7 +43,7 @@ npm run dev
 npm run build
 ```
 
-4. Preview production build:
+4. Preview production build (static export):
 
 ```bash
 npm run start
